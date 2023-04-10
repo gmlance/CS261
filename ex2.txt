@@ -1,0 +1,1 @@
+This program takes a user input to see if the number is a prime number or not. To do this it uses a function that divides the number by two. If the remainder is one the number is prime.
