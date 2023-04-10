@@ -1,0 +1,4 @@
+gcc --std=c99 -g -c hash_table.c
+gcc --std=c99 -g -c dynarray.c
+gcc --std=c99 -g -c list.c
+gcc --std=c99 -g test_hash_table.c hash_table.o dynarray.o list.o -o test_ht
